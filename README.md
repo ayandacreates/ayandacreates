@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Software engineering student with a genuine curiosity for how things work; and an even bigger drive to build them. 
-I believe experience is the best teacher, so whether it's a new concept, tool, or technology, I don't understand jsut read about it; I build with it.
+I believe experience is the best teacher, so whether it's a new concept, tool, or technology, I don't just read about it; I build with it.
 
 💡*About Me*
 - Studying Bachelor of Computing - Software Engineering
