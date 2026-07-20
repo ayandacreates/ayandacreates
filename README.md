@@ -23,13 +23,7 @@ I believe experience is the best teacher, so whether it's a new concept, tool, o
 
 ## 🏆 Certifications
 
-<img src="PASTE_MICROSOFT_BADGE_IMAGE_URL_HERE" alt="Azure AI Fundamentals" width="120"/>
-
 [![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/ayandamabena-5217/credentials/certification/azure-ai-fundamentals)
-
-**Microsoft Certified: Azure AI Fundamentals**
-Earned June 2026 · [Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/AyandaMabena-5217/67E3537EC6EAD6D5?sharingId=63411D87CECAFE39)
-
 
 ## Contact Me
 - 📫Email: ayandacademic@gmail.com
