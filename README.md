@@ -21,6 +21,13 @@ I believe experience is the best teacher, so whether it's a new concept, tool, o
 ## 📚Currently learning
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
+## 🏆 Certifications
+
+<img src="PASTE_MICROSOFT_BADGE_IMAGE_URL_HERE" alt="Azure AI Fundamentals" width="120"/>
+
+**Microsoft Certified: Azure AI Fundamentals**
+Earned June 2026 · [Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/AyandaMabena-5217/67E3537EC6EAD6D5?sharingId=63411D87CECAFE39)
+
 
 ## Contact Me
 - 📫Email: ayandacademic@gmail.com
